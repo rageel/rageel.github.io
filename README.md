@@ -10,7 +10,7 @@ My projects:
 	
 	Repo: https://github.com/rageel/W_Ciapkach
 
-2. Furry-game
+2. Furry Game
 
 	JavaScript game in which Furry moves on the board and earns points when he meets the coin.
 

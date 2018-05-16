@@ -7,6 +7,7 @@ My projects:
 	IT Slang Dictionary
 
 	Website: https://w-ciapkach-d1993.firebaseapp.com/
+	
 	Repo: https://github.com/rageel/W_Ciapkach
 
 2. Furry-game

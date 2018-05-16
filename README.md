@@ -2,7 +2,7 @@
 
 My projects:
 
-1. W_Ciapkach
+1. W Ciapkach
 
 	IT Slang Dictionary
 
